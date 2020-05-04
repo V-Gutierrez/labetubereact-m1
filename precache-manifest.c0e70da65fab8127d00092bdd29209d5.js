@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d568c779da99bac704fa021dded620b0",
+    "revision": "9aab76a5d55bc56878a96c0718282f0b",
     "url": "/labetubereact-m1/index.html"
   },
   {
-    "revision": "a29b7b92138f01643106",
-    "url": "/labetubereact-m1/static/css/main.03197273.chunk.css"
+    "revision": "4f06d3191874afd86d4f",
+    "url": "/labetubereact-m1/static/css/main.6c67c1ce.chunk.css"
   },
   {
     "revision": "636e3b1a9f00c5dfda95",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/labetubereact-m1/static/js/2.6ad5bf4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a29b7b92138f01643106",
+    "revision": "4f06d3191874afd86d4f",
     "url": "/labetubereact-m1/static/js/main.61fdb1b8.chunk.js"
   },
   {
