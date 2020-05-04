@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/labetubereact-m1/static/css/main.03197273.chunk.css",
+    "main.js": "/labetubereact-m1/static/js/main.61fdb1b8.chunk.js",
+    "main.js.map": "/labetubereact-m1/static/js/main.61fdb1b8.chunk.js.map",
+    "runtime-main.js": "/labetubereact-m1/static/js/runtime-main.528bb859.js",
+    "runtime-main.js.map": "/labetubereact-m1/static/js/runtime-main.528bb859.js.map",
+    "static/js/2.6ad5bf4b.chunk.js": "/labetubereact-m1/static/js/2.6ad5bf4b.chunk.js",
+    "static/js/2.6ad5bf4b.chunk.js.map": "/labetubereact-m1/static/js/2.6ad5bf4b.chunk.js.map",
+    "index.html": "/labetubereact-m1/index.html",
+    "precache-manifest.5ea92a28e2bb0e5772ed6d2d876920ea.js": "/labetubereact-m1/precache-manifest.5ea92a28e2bb0e5772ed6d2d876920ea.js",
+    "service-worker.js": "/labetubereact-m1/service-worker.js",
+    "static/css/main.03197273.chunk.css.map": "/labetubereact-m1/static/css/main.03197273.chunk.css.map",
+    "static/js/2.6ad5bf4b.chunk.js.LICENSE.txt": "/labetubereact-m1/static/js/2.6ad5bf4b.chunk.js.LICENSE.txt",
+    "static/media/labetube.png": "/labetubereact-m1/static/media/labetube.998d7c49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.528bb859.js",
+    "static/js/2.6ad5bf4b.chunk.js",
+    "static/css/main.03197273.chunk.css",
+    "static/js/main.61fdb1b8.chunk.js"
+  ]
+}
