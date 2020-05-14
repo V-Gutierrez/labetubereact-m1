@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/labetubereact-m1/precache-manifest.c0e70da65fab8127d00092bdd29209d5.js"
+  "/labetubereact-m1/precache-manifest.6365a701b13a1488461b6973bdf2eb49.js"
 );
 
 self.addEventListener('message', (event) => {
